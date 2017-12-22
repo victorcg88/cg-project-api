@@ -1,0 +1,26 @@
+{
+  "name": "cg-project-api",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorcg88/cg-project-api.git"
+  },
+  "author": "VictorCG <victorcg88@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "body-parser": "^1.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/victorcg88/cg-project-api/issues"
+  }
+}
